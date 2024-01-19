@@ -1,0 +1,359 @@
+[
+  {
+    "name": "Akuma",
+    "display_name": "Akuma",
+    "fighting_style": "Ansatsuken",
+    "game": "Tekken 7",
+    "archetypes": ["Meter", "50/50", "Poking"]
+  },
+  {
+    "name": "Alisa Bosconovitch",
+    "display_name": "Alisa",
+    "fighting_style": "Thruster-Based High-Mobility Fighting Style",
+    "game": "Tekken 7",
+    "archetypes": ["Keep Out", "Evasive", "FTTAWSBFTMA"]
+  },
+  {
+    "name": "Anna Williams",
+    "display_name": "Anna",
+    "fighting_style": "Assassination Arts",
+    "game": "Tekken 7",
+    "archetypes": ["50/50", "Poking", "Lockdown"]
+  },
+  {
+    "name": "Armor King",
+    "display_name": "Armor",
+    "fighting_style": "Pro-Wrestling",
+    "game": "Tekken 7",
+    "archetypes": ["Versatile", "Grappler", "Mishima"]
+  },
+  {
+    "name": "Asuka Kazama",
+    "display_name": "Asuka",
+    "fighting_style": "Kazama Style Traditional Martial Arts",
+    "game": "Tekken 7",
+    "archetypes": ["Evasive", "Deflection", "Keep Out"]
+  },
+  {
+    "name": "Bob Richards",
+    "display_name": "Bob",
+    "fighting_style": "Freestyle Karate",
+    "game": "Tekken 7",
+    "archetypes": ["Poking", "50/50", "Mishima"]
+  },
+  {
+    "name": "Bryan Fury",
+    "display_name": "Bryan",
+    "fighting_style": "Kickboxing",
+    "game": "Tekken 7",
+    "archetypes": ["Counter Hit", "Keep Out", "Lockdown"]
+  },
+  {
+    "name": "Claudio Serafino",
+    "display_name": "Claudio",
+    "fighting_style": "Sirius-Style Exorcism Sorcery",
+    "game": "Tekken 7",
+    "archetypes": ["FTTAWSBFTMA", "Lockdown", "Keep Out"]
+  },
+  {
+    "name": "Devil Jin",
+    "display_name": "Devil",
+    "fighting_style": "Kazama Style Traditional Martial Arts",
+    "game": "Tekken 7",
+    "archetypes": ["Mishima", "50/50", "Poking"]
+  },
+  {
+    "name": "Dragunov",
+    "display_name": "Dragunov",
+    "fighting_style": "Sambo",
+    "game": "Tekken 7",
+    "archetypes": ["Lockdown", "Poking", "Long Reach"]
+  },
+  {
+    "name": "Eddy Gordo",
+    "display_name": "Eddy",
+    "fighting_style": "Capoeira",
+    "game": "Tekken 7",
+    "archetypes": ["Evasive", "Keep Out", "50/50"]
+  },
+  {
+    "name": "Eliza",
+    "display_name": "Eliza",
+    "fighting_style": "Vampirism",
+    "game": "Tekken 7",
+    "archetypes": ["Meter", "Keep Out", "FTTAWSBFTMA"]
+  },
+  {
+    "name": "Fahkumram",
+    "display_name": "Fahkumram",
+    "fighting_style": "Muay Thai",
+    "game": "Tekken 7",
+    "archetypes": ["Long Reach", "Poking", "50/50"]
+  },
+  {
+    "name": "Feng Wei",
+    "display_name": "Feng",
+    "fighting_style": "Taijiquan",
+    "game": "Tekken 7",
+    "archetypes": ["Evasive", "Poking", "Versatile"]
+  },
+  {
+    "name": "Ganryu",
+    "display_name": "Ganryu",
+    "fighting_style": "Sumo",
+    "game": "Tekken 7",
+    "archetypes": ["Poking", "50/50", "Lockdown"]
+  },
+  {
+    "name": "Geese Howard",
+    "display_name": "Geese",
+    "fighting_style": "Kobujutsu",
+    "game": "Tekken 7",
+    "archetypes": ["Meter", "Poking", "Deflection"]
+  },
+  {
+    "name": "Gigas",
+    "display_name": "Gigas",
+    "fighting_style": "Destructive Impulse",
+    "game": "Tekken 7",
+    "archetypes": ["Long Reach", "Lockdown", "Deflection"]
+  },
+  {
+    "name": "Heihachi Mishima",
+    "display_name": "Heihachi",
+    "fighting_style": "Mishima-Style Fighting Karate",
+    "game": "Tekken 7",
+    "archetypes": ["Mishima", "Lockdown", "Counter Hit"]
+  },
+  {
+    "name": "Hwoarang",
+    "display_name": "Hwoarang",
+    "fighting_style": "Taekwondo",
+    "game": "Tekken 7",
+    "archetypes": ["Rushdown", "50/50", "Deflection"]
+  },
+  {
+    "name": "Jack-7",
+    "display_name": "Jack",
+    "fighting_style": "Sheer Force",
+    "game": "Tekken 7",
+    "archetypes": ["Long Reach", "Keep Out", "50/50"]
+  },
+  {
+    "name": "Jin Kazama",
+    "display_name": "Jin",
+    "fighting_style": "Kyokushinkai",
+    "game": "Tekken 7",
+    "archetypes": ["Versatile", "Mishima", "Keep Out"]
+  },
+  {
+    "name": "Josie Rizal",
+    "display_name": "Josie",
+    "fighting_style": "Eskrima",
+    "game": "Tekken 7",
+    "archetypes": ["Rushdown", "Counter Hit", "Versatile"]
+  },
+  {
+    "name": "Julia Chang",
+    "display_name": "Julia",
+    "fighting_style": "Chang Kenpo",
+    "game": "Tekken 7",
+    "archetypes": ["Rushdown", "50/50", "FTTAWSBFTMA"]
+  },
+  {
+    "name": "Katarina Alves",
+    "display_name": "Katarina",
+    "fighting_style": "Savate",
+    "game": "Tekken 7",
+    "archetypes": ["Poking", "Counter Hit", "Versatile"]
+  },
+  {
+    "name": "Kazumi Mishima",
+    "display_name": "Kazumi",
+    "fighting_style": "Mishima-Style Fighting Karate",
+    "game": "Tekken 7",
+    "archetypes": ["Poking", "FTTAWSBFTMA", "Mishima"]
+  },
+  {
+    "name": "Kazuya Mishima",
+    "display_name": "Kazuya",
+    "fighting_style": "Mishima-Style Fighting Karate",
+    "game": "Tekken 7",
+    "archetypes": ["Mishima", "50/50", "Counter Hit"]
+  },
+  {
+    "name": "King",
+    "display_name": "King",
+    "fighting_style": "Lucha Libre",
+    "game": "Tekken 7",
+    "archetypes": ["Grappler", "Poking", "Counter Hit"]
+  },
+  {
+    "name": "Kuma",
+    "display_name": "Kuma",
+    "fighting_style": "Kuma Shinkan",
+    "game": "Tekken 7",
+    "archetypes": ["Long Reach", "Poking", "Keep Out"]
+  },
+  {
+    "name": "Panda",
+    "display_name": "Panda",
+    "fighting_style": "Kuma Shinkan",
+    "game": "Tekken 7",
+    "archetypes": ["Long Reach", "Poking", "Keep Out"]
+  },
+  {
+    "name": "Kunimitsu",
+    "display_name": "Kunimitsu",
+    "fighting_style": "Ninjutsu",
+    "game": "Tekken 7",
+    "archetypes": ["FTTAWSBFTMA", "50/50", "Poking"]
+  },
+  {
+    "name": "Lars Alexandersson",
+    "display_name": "Lars",
+    "fighting_style": "Karate",
+    "game": "Tekken 7",
+    "archetypes": ["Poking", "50/50", "Evasive"]
+  },
+  {
+    "name": "Marshall Law",
+    "display_name": "Law",
+    "fighting_style": "Jeet Kune Do",
+    "game": "Tekken 7",
+    "archetypes": ["Law", "Rushdown", "Versatile"]
+  },
+  {
+    "name": "Lee Chaolan",
+    "display_name": "Lee",
+    "fighting_style": "Mishima-Style Fighting Karate",
+    "game": "Tekken 7",
+    "archetypes": ["Law", "Keep Out", "Evasive"]
+  },
+  {
+    "name": "Lei Wulong",
+    "display_name": "Lei",
+    "fighting_style": "Wulong-Style Kung-Fu",
+    "game": "Tekken 7",
+    "archetypes": ["50/50", "Versatile", "FTTAWSBFTMA"]
+  },
+  {
+    "name": "Leo Kliesen",
+    "display_name": "Leo",
+    "fighting_style": "Baji Quan",
+    "game": "Tekken 7",
+    "archetypes": ["Versatile", "Keep Out", "50/50"]
+  },
+  {
+    "name": "Leroy Smith",
+    "display_name": "Leroy",
+    "fighting_style": "Wing Chun",
+    "game": "Tekken 7",
+    "archetypes": ["Versatile", "50/50", "Deflection"]
+  },
+  {
+    "name": "Lidia Sobieska",
+    "display_name": "Lidia",
+    "fighting_style": "Traditional Karate",
+    "game": "Tekken 7",
+    "archetypes": ["50/50", "Rushdown", "Deflection"]
+  },
+  {
+    "name": "Lili",
+    "display_name": "Lili",
+    "fighting_style": "Street Fighting",
+    "game": "Tekken 7",
+    "archetypes": ["Evasive", "Keep Out", "Lockdown"]
+  },
+  {
+    "name": "Lucky Chloe",
+    "display_name": "Chloe",
+    "fighting_style": "Breakdancing",
+    "game": "Tekken 7",
+    "archetypes": ["Poking", "Rushdown", "Evasive"]
+  },
+  {
+    "name": "Marduk",
+    "display_name": "Marduk",
+    "fighting_style": "Vale Tudo",
+    "game": "Tekken 7",
+    "archetypes": ["50/50", "Long Reach", "Counter Hit"]
+  },
+  {
+    "name": "Master Raven",
+    "display_name": "Raven",
+    "fighting_style": "Ninjutsu",
+    "game": "Tekken 7",
+    "archetypes": ["Evasive", "Versatile", "50/50"]
+  },
+  {
+    "name": "Miguel",
+    "display_name": "Miguel",
+    "fighting_style": "Street Fighting",
+    "game": "Tekken 7",
+    "archetypes": ["Poking", "Rushdown", "50/50"]
+  },
+  {
+    "name": "Negan",
+    "display_name": "Negan",
+    "fighting_style": "Baseball Bat",
+    "game": "Tekken 7",
+    "archetypes": ["Poking", "Lockdown", "Deflection"]
+  },
+  {
+    "name": "Nina Williams",
+    "display_name": "Nina",
+    "fighting_style": "Assassination Arts",
+    "game": "Tekken 7",
+    "archetypes": ["Rushdown", "Poking", "Counter Hit"]
+  },
+  {
+    "name": "Noctis Lucius Caelum",
+    "display_name": "Noctis",
+    "fighting_style": "Weapon Summoning",
+    "game": "Tekken 7",
+    "archetypes": ["FTTAWSBFTMA", "Long Reach", "Poking"]
+  },
+  {
+    "name": "Paul Phoenix",
+    "display_name": "Paul",
+    "fighting_style": "Judo",
+    "game": "Tekken 7",
+    "archetypes": ["Keep Out", "Counter Hit", "50/50"]
+  },
+  {
+    "name": "Shaheen",
+    "display_name": "Shaheen",
+    "fighting_style": "Military Martial Arts",
+    "game": "Tekken 7",
+    "archetypes": ["Law", "Long Reach", "50/50"]
+  },
+  {
+    "name": "Steve",
+    "display_name": "Steve",
+    "fighting_style": "Boxing",
+    "game": "Tekken 7",
+    "archetypes": ["Counter Hit", "Versatile", "Evasive"]
+  },
+  {
+    "name": "Xiaoyu",
+    "display_name": "Xiaoyu",
+    "fighting_style": "Baguazhang",
+    "game": "Tekken 7",
+    "archetypes": ["Evasive", "Set Up", "50/50"]
+  },
+  {
+    "name": "Yoshimitsu",
+    "display_name": "Yoshimitsu",
+    "fighting_style": "Ninjutsu",
+    "game": "Tekken 7",
+    "archetypes": ["Versatile", "Deflection", "Evasive"]
+  },
+  {
+    "name": "Zafina",
+    "display_name": "Zafina",
+    "fighting_style": "Assassination Arts",
+    "game": "Tekken 7",
+    "archetypes": ["Evasive", "Poking", "Counter Hit"]
+  }
+]

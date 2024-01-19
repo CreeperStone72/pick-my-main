@@ -1,0 +1,198 @@
+[
+  {
+    "name": "Ansatsuken",
+    "parent_styles": ["Karate"]
+  },
+  {
+    "name": "Karate",
+    "parent_styles": []
+  },
+  {
+    "name": "Thruster-Based High-Mobility Fighting Style",
+    "parent_styles": []
+  },
+  {
+    "name": "Assassination Arts",
+    "parent_styles": ["Aikido", "Koppojutsu"]
+  },
+  {
+    "name": "Aikido",
+    "parent_styles": []
+  },
+  {
+    "name": "Koppojutsu",
+    "parent_styles": []
+  },
+  {
+    "name": "Pro-Wrestling",
+    "parent_styles": ["Wrestling"]
+  },
+  {
+    "name": "Wrestling",
+    "parent_styles": []
+  },
+  {
+    "name": "Kazama Style Traditional Martial Arts",
+    "parent_styles": ["Japanese Jujutsu"]
+  },
+  {
+    "name": "Japanese Jujutsu",
+    "parent_styles": ["Jiu-Jitsu"]
+  },
+  {
+    "name": "Jiu-Jitsu",
+    "parent_styles": []
+  },
+  {
+    "name": "Freestyle Karate",
+    "parent_styles": ["Karate"]
+  },
+  {
+    "name": "Kickboxing",
+    "parent_styles": ["Karate", "Muay Thai", "Boxing"]
+  },
+  {
+    "name": "Muay Thai",
+    "parent_styles": []
+  },
+  {
+    "name": "Boxing",
+    "parent_styles": []
+  },
+  {
+    "name": "Sirius-Style Exorcism Sorcery",
+    "parent_styles": []
+  },
+  {
+    "name": "Sambo",
+    "parent_styles": ["Judo", "Jiu-Jitsu", "Wrestling"]
+  },
+  {
+    "name": "Judo",
+    "parent_styles": []
+  },
+  {
+    "name": "Taekwondo",
+    "parent_styles": []
+  },
+  {
+    "name": "Capoeira",
+    "parent_styles": []
+  },
+  {
+    "name": "Vampirism",
+    "parent_styles": []
+  },
+  {
+    "name": "Taijiquan",
+    "parent_styles": []
+  },
+  {
+    "name": "Sumo",
+    "parent_styles": []
+  },
+  {
+    "name": "Kobujutsu",
+    "parent_styles": []
+  },
+  {
+    "name": "Mishima-Style Fighting Karate",
+    "parent_styles": ["Karate"]
+  },
+  {
+    "name": "Sheer Force",
+    "parent_styles": []
+  },
+  {
+    "name": "Kyokushinkai",
+    "parent_styles": ["Karate"]
+  },
+  {
+    "name": "Eskrima",
+    "parent_styles": []
+  },
+  {
+    "name": "Chang Kenpo",
+    "parent_styles": ["Xin Yi Liu He Quan", "Baji Quan", "Wrestling"]
+  },
+  {
+    "name": "Xin Yi Liu He Quan",
+    "parent_styles": []
+  },
+  {
+    "name": "Baji Quan",
+    "parent_styles": []
+  },
+  {
+    "name": "Savate",
+    "parent_styles": ["Kickboxing"]
+  },
+  {
+    "name": "Lucha Libre",
+    "parent_styles": "Pro-Wrestling"
+  },
+  {
+    "name": "Kuma Shinkan",
+    "parent_styles": ["Mishima-Style Fighting Karate"]
+  },
+  {
+    "name": "Jeet Kune Do",
+    "parent_styles": ["Wing Chun", "Taekwondo", "Boxing", "Fencing", "Jiu-Jitsu"]
+  },
+  {
+    "name": "Wulong-Style Kung-Fu",
+    "parent_styles": ["Wu Xing", "Zui Quan"]
+  },
+  {
+    "name": "Wu Xing",
+    "parent_styles": ["Kung-Fu"]
+  },
+  {
+    "name": "Kung-Fu",
+    "parent_styles": []
+  },
+  {
+    "name": "Zui Quan",
+    "parent_styles": ["Kung-Fu"]
+  },
+  {
+    "name": "Wing Chun",
+    "parent_styles": []
+  },
+  {
+    "name": "Fencing",
+    "parent_styles": []
+  },
+  {
+    "name": "Traditional Karate",
+    "parent_styles": ["Karate"]
+  },
+  {
+    "name": "Street Fighting",
+    "parent_styles": []
+  },
+  {
+    "name": "Vale Tudo",
+    "parent_styles": ["Brazilian Jiu-Jitsu", "Muay Thai", "Sambo", "Judo", "Boxing", "Pro-Wrestling"]
+  },
+  {
+    "name": "Brazilian Jiu-Jitsu",
+    "parent_styles": ["Jiu-Jitsu"]
+  },
+  {
+    "name": "Baseball Bat",
+    "parent_styles": []
+  },
+  {
+    "name": "Weapon Summoning",
+    "parent_styles": []
+  },
+  {
+    "name": "Military Martial Arts",
+    "parent_styles": []
+  },
+  {
+    "name": "Baguazhang",
+    "parent_styles": []
+  }
+]

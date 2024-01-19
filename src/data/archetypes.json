@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Meter",
+    "description": "Deal damage to fill up a gauge in order to be able to enhance some of your moves",
+    "games": ["Tekken 7"],
+    "parent_types": []
+  },
+  {
+    "name": "50/50",
+    "description": "Use a mixture of mids and lows to keep your opponent guessing",
+    "games": ["Tekken 7"],
+    "parent_types": []
+  },
+  {
+    "name": "Poking",
+    "description": "Make use of a hit & run tactic to take your opponent by surprise and deal a death by a thousand cuts",
+    "games": ["Tekken 7"],
+    "parent_types": []
+  },
+  {
+    "name": "Keep Out",
+    "description": "Make use of a bunch of projectiles to keep you at a fair distance",
+    "games": ["Tekken 7"],
+    "parent_types": ["Zoner"]
+  },
+  {
+    "name": "Zoner",
+    "description": "Your strong mid-long range projectiles are meant to keep your opponent at bay. They have to stay there.",
+    "games": [],
+    "parent_types": []
+  },
+  {
+    "name": "Evasive",
+    "description": "Slip through pressure. Works best against aggressive opponents, but has weak tracking",
+    "games": ["Tekken 7"],
+    "parent_types": []
+  },
+  {
+    "name": "FTTAWSBFTMA",
+    "description": "Short for \"Flying Through The Air With Some Bullshit From Ten Miles Away\". Projectiles are included, the need to press forward in order to move is not.",
+    "games": ["Tekken 7"],
+    "parent_types": ["Long Reach"]
+  },
+  {
+    "name": "Long Reach",
+    "description": "Unleash an oppressive offense from the safety of mid-range with your longer-than-average attacks",
+    "games": ["Tekken 7"],
+    "parent_types": []
+  },
+  {
+    "name": "Rushdown",
+    "description": "Get in your opponent's face with your faster movement speed and use your strong up-close pressure to get aggressive on them. Unga bunga brother.",
+    "games": ["Tekken 7"],
+    "parent_types": []
+  },
+  {
+    "name": "Versatile",
+    "description": "Jack of all trades, master of none",
+    "games": ["Tekken 7"],
+    "parent_types": []
+  },
+  {
+    "name": "Grappler",
+    "description": "Make them regret letting you in. Your command grabs are meant to exploit mistakes.",
+    "games": ["Tekken 7"],
+    "parent_types": []
+  },
+  {
+    "name": "Mishima",
+    "description": "I'm not gonna sugarcoat it. ➡️⭐⬇️↘️✊, flash punch combo, and wavedash mix-ups. Be grateful the receding hairline isn't part of the package.",
+    "games": ["Tekken 7"],
+    "parent_types": []
+  },
+  {
+    "name": "Deflection",
+    "description": "Become Mr. Steal-yo-turn with all those parries",
+    "games": ["Tekken 7"],
+    "parent_types": ["Evasive"]
+  },
+  {
+    "name": "Counter Hit",
+    "description": "With your strong and safe moves, you can easily exploit your opponent's mistakes",
+    "games": ["Tekken 7"],
+    "parent_types": []
+  },
+  {
+    "name": "Lockdown",
+    "description": "Become hard to challenge and be aggressive",
+    "games": ["Tekken 7"],
+    "parent_types": ["Rushdown"]
+  },
+  {
+    "name": "Law",
+    "description": "Cast your line and fish for pokes and counter hits, you got the tools to deal with them",
+    "games": ["Tekken 7"],
+    "parent_types": []
+  },
+  {
+    "name": "Set Up",
+    "description": "You're playing chess, setting up your big damage move that will win you the round",
+    "games": ["Tekken 7"],
+    "parent_types": []
+  }
+]
